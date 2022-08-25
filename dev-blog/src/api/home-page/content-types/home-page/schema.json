@@ -43,7 +43,7 @@
       "component": "blog.posts-selection"
     },
     "dynamicHomeSection": {
-      "type": "dynamiczone",
+      "type": "dynamiczone", 
       "components": [
         "layout.newsletter-form",
         "layout.mission"
